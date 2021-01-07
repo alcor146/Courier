@@ -1,5 +1,5 @@
 # Courier
-It's basically a route optimization code for a couriere that delivers packages( in C language)
+It's basically a route optimization code for a courier that delivers packages( in C language)
 
 Tema consta intr-o harta realizata cu ajutorul unui graf de statii.Fiecare varf al grafului contine un graf aferent clientilor statiei respective.Se vor face multiple operatii asupra matrcelor adiacente grafurilor noastre care vor influenta modul curierului de livrare a coletului
 
